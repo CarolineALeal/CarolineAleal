@@ -1,7 +1,6 @@
 ### Olá, sou a Caroline Leal 👋
 
 
-- Atualmente estou estudando front-end
 
 <div align="center">
   <a href="https://github.com/CarolineALeal">
