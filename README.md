@@ -7,9 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineALeal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineALeal&layout=compact&langs_count=7&theme=dark"/>
 </div>
-## Estatísticas de Programação
-
-[![wakatime](https://wakatime.com/badge/user/3a62168a-213e-4ca4-9af0-d6ff6cbcc94d/project/11500de7-a84a-4876-9b13-0e9b577394f3.svg)](https://wakatime.com/badge/user/3a62168a-213e-4ca4-9af0-d6ff6cbcc94d/project/11500de7-a84a-4876-9b13-0e9b577394f3)
 
  <div style="display: inline_block"><br>
    <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white" />
